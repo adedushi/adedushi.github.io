@@ -66,11 +66,6 @@ sup,
   padding: 1rem 1rem;
 }
 
-.background-image {
-  background-position: center center;
-  background-size: cover;
-}
-
 .navbar-light .navbar-nav .nav-link {
   text-transform: uppercase;
   padding-right: 1rem;
@@ -106,7 +101,7 @@ header.p-section {
 }
 
 .btn {
-  font-size: .9rem;
+  font-size: 1rem;
   border-radius: 25px;
   letter-spacing: .15em;
   text-transform: uppercase;
@@ -154,4 +149,9 @@ header.p-section {
   left: -0.05em;
   padding: 0 0.25em;
   bottom: 0.2em;
+}
+
+.links {
+  display: flex;
+  justify-content: center;
 }
