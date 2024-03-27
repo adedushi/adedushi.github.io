@@ -102,10 +102,11 @@ header.p-section {
 
 .btn {
   font-size: 1rem;
-  border-radius: 25px;
+  border-radius: 4px;
   letter-spacing: .15em;
   text-transform: uppercase;
   padding: .65rem 1.5rem;
+  margin: 1px;
 }
 
 .btn-group-lg>.btn,
